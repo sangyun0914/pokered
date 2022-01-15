@@ -1,0 +1,31 @@
+1. CLASS POKEMON
+private data:
+    name;
+    id;
+    hp;
+    atk;
+    def;
+    spd;
+    spc;
+    type1;
+    type2;
+    catch rate;
+    base exp;
+
+
+
+struct MOVES
+    1. name;
+    2. effect;
+    3. power;
+    4. type;
+    5. accuracy;
+    6. pp;
+
+
+
+PLAYER
+    1. name;
+    2. money;
+    3. carrying pokemon
+    4. Items
